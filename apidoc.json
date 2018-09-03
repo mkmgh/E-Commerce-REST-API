@@ -1,0 +1,7 @@
+{
+    "name" : "E-Commerce Application",
+    "version" : "0.0.1",
+    "description" : "This is basic REST API of E-Commerce Website",
+    "title" : "E-Commerce REST API",
+    "url" : "https://localhost:3000"
+}
